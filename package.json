@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "mkfiledir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manan-5/test.git"
+  },
+  "bin": {
+    "Mymkdir": "mkfiledir.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manan-5/test/issues"
+  },
+  "homepage": "https://github.com/Manan-5/test#readme",
+  "description": ""
+}
